@@ -13,3 +13,6 @@ https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-api
 
 ## json_serializable
 https://github.com/google/json_serializable.dart/tree/master/example
+
+## Equatable
+https://pub.dev/packages/equatable
