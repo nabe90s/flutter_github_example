@@ -1,19 +1,15 @@
 # flutter_github_example
 
-A new Flutter project.
+fig1|fig2
+---|---
+![fig1](./image/fig1.png)|![fig2](./image/fig2.png)
 
-## Getting Started
+## flutter_bloc
+https://pub.dev/packages/flutter_bloc
+https://medium.com/flutter-community/using-the-bloc-pattern-for-clean-flutter-apps-theory-and-a-practical-example-b5dcad728a2b
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Retrofit
+https://medium.com/mindful-engineering/retrofit-the-easiest-way-to-call-rest-apis-is-flutter-fe55d1e7c5c2
 
 ## json_serializable
 https://github.com/google/json_serializable.dart/tree/master/example
