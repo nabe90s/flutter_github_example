@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
     return BlocBuilder<TabBloc, HomeTab>(builder: (context, activeTab) {
       return Scaffold(
         appBar: AppBar(
-          title: Text("Home"),
+          title: Text("Github Example"),
         ),
         body: activeTab == HomeTab.repo ? RepoScreen() : UserScreen(),
         bottomNavigationBar: HomeTabSelector(
